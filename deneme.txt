@@ -1,0 +1,2 @@
+print("Neden Bu Kadar Ciddisiiiğyğn?");
+print("Hay Babana Rahmet!");
